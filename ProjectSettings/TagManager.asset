@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - PlayerStats
+  - EnemyAttack
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - spike
+  - Water
+  - UI
+  - Player
+  - Ground
+  - PlayerStats
+  - Enemy Attack
+  - CameraBounds
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1191398081
+    locked: 0
+  - name: Ground
+    uniqueID: 2513919993
+    locked: 0
+  - name: Middleground
+    uniqueID: 4034300149
+    locked: 0
+  - name: Player
+    uniqueID: 1813673569
+    locked: 0
+  - name: UI
+    uniqueID: 1339710321
+    locked: 0
+  m_RenderingLayers:
+  - Default
