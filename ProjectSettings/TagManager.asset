@@ -18,8 +18,8 @@ TagManager:
   - PlayerStats
   - Enemy Attack
   - CameraBounds
-  - 
-  - 
+  - Enemy
+  - PlayerAttack
   - 
   - 
   - 
